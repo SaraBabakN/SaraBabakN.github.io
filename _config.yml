@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sara Babakniya"
+title                    : 
 title_separator          : "-"
 name                     : &name "Sara Babakniya"
 description              : &description "Graduate Research at the University of Southern California"
