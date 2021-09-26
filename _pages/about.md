@@ -20,8 +20,10 @@ Graduate Research Assistant (Aug 2019 - Present)
 
 Publications
 -----
-- An Automated Search Framework for Low Complexity Deep Learning, Springer Nature Computer Science, 2021
-- Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning, submitted to ACM Transactions on Intelligent Systems and Technology, 2021 
+- **An Automated Search Framework for Low Complexity Deep Learning**
+  - Sourya Dey, Sara Babakniya, Saikrishna C. Kanala, Marco Paolieri, Leana Golubchik, Peter A. Beerel, and Keith M. Chugg. 
+  - Springer Nature Computer Science, 2021
+  - [paper](https://link.springer.com/article/10.1007/s42979-021-00646-0)
 
 Honors and Awards
 -----
