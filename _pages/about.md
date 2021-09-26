@@ -31,7 +31,7 @@ Publications
 
 Honors and Awards
 -----
-- 2021 Gracehopper Scholar
+- Grace Hopper Celebration Scholarship 2021
 - Iran’s National Elites Foundation Fellowship 2014 – 2019
 
 Contact
