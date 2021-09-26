@@ -10,6 +10,9 @@ redirect_from:
 
 About
 ------
+I am a 3rd-year Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of the [Quantitative Evaluation and Design Lab](https://qed.usc.edu/) under the supervision of [Prof. Leana Golubchik](http://bourbon.usc.edu/leana/).  Generally, I am interested in Privacy & Fairness in ML, Federated Learning, and Neural Network Architecture Search. My recent focus is on the privacy and efficiency of Federated Learning and Neural Network Architecture Search in Natural Language Processing.  
+  
+I finished my B.Sc. in [Electrical Engineering](http://ee.sharif.edu/~web/en/) at the [Sharif University of Technology](http://www.en.sharif.edu/) in 2019, during which I gained some experience in implementing and designing networked systems.
 
 Experience
 -----
@@ -31,3 +34,4 @@ Los Angeles, CA 90089-0781
 
 [CV](/files/Resume_Sara_Babakniya.pdf)
 ------
+                                                          last update 9/25/2021
