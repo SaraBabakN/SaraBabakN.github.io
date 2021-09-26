@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Sara Babakniya"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,14 +11,14 @@ redirect_from:
 About
 ------
 
-Publication
-------
-
 Experience
 -----
+Graduate Research Assistant (Aug 2019 - Present)
 
 Honors and Awards
 -----
+2021 Gracehopper Scholar
+Iran’s National Elites Foundation Fellowship 2014 – 2019
 
 Contact
 -----
