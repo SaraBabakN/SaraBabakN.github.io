@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : 
-title_separator          : "-"
+title_separator          : 
 name                     : &name "Sara Babakniya"
 description              : &description "Graduate Research at the USC"
 url                      : https://SaraBabakN.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
