@@ -18,6 +18,11 @@ Experience
 -----
 Graduate Research Assistant (Aug 2019 - Present)
 
+Publications
+-----
+- An Automated Search Framework for Low Complexity Deep Learning, Springer Nature Computer Science, 2021
+- Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning, submitted to ACM Transactions on Intelligent Systems and Technology, 2021 
+
 Honors and Awards
 -----
 - 2021 Gracehopper Scholar
