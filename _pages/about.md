@@ -17,8 +17,8 @@ Graduate Research Assistant (Aug 2019 - Present)
 
 Honors and Awards
 -----
-2021 Gracehopper Scholar
-Iran’s National Elites Foundation Fellowship 2014 – 2019
+- 2021 Gracehopper Scholar
+- Iran’s National Elites Foundation Fellowship 2014 – 2019
 
 Contact
 -----
