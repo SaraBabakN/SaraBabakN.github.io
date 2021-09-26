@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sara Babakniya"
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,13 +21,13 @@ Graduate Research Assistant (Aug 2019 - Present)
 Publications
 -----
 - **Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning**  
-  Chien-Lun Chen, Sara Babakniya, Marco Paolieri, and Leana Golubchik  
+  Chien-Lun Chen, <u>Sara Babakniya</u>, Marco Paolieri, and Leana Golubchik  
   Submitted to ACM Transactions on Intelligent Systems and Technology, 2021
   
 - **An Automated Search Framework for Low Complexity Deep Learning**  
-  Sourya Dey, Sara Babakniya, Saikrishna C. Kanala, Marco Paolieri, Leana Golubchik, Peter A. Beerel, and Keith M. Chugg.  
+  Sourya Dey, <u>Sara Babakniya</u>, Saikrishna C. Kanala, Marco Paolieri, Leana Golubchik, Peter A. Beerel, and Keith M. Chugg.  
   Springer Nature Computer Science, 2021  
-  [paper](https://link.springer.com/article/10.1007/s42979-021-00646-0)  
+  [Paper](https://link.springer.com/article/10.1007/s42979-021-00646-0)  
 
 Honors and Awards
 -----
