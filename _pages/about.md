@@ -43,6 +43,4 @@ Department of Computer Science
 941 Bloom Walk, SAL 200  
 Los Angeles, CA 90089-0781  
 
-[CV](/files/Resume_Sara_Babakniya.pdf)
-------
                                                           last update 9/25/2021
