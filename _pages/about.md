@@ -1,7 +1,7 @@
 ---
 permalink: /
-title:
-excerpt:
+title: "Sara Babakniya"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
