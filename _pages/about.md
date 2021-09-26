@@ -21,13 +21,13 @@ Graduate Research Assistant (Aug 2019 - Present)
 Publications
 -----
 - **Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning**  
-  <sup>Chien-Lun Chen, <u>Sara Babakniya</u>, Marco Paolieri, and Leana Golubchik</sup>  
+  Chien-Lun Chen, <u>Sara Babakniya</u>, Marco Paolieri, and Leana Golubchik  
   Submitted to ACM Transactions on Intelligent Systems and Technology, 2021
   
 - **An Automated Search Framework for Low Complexity Deep Learning**  
-  <sup>Sourya Dey, <u>Sara Babakniya</u>, Saikrishna C. Kanala, Marco Paolieri, Leana Golubchik, Peter A. Beerel, and Keith M. Chugg</sup>  
+  Sourya Dey, <u>Sara Babakniya</u>, Saikrishna C. Kanala, Marco Paolieri, Leana Golubchik, Peter A. Beerel, and Keith M. Chugg  
   Springer Nature Computer Science, 2021  
-  \[[Paper](https://link.springer.com/article/10.1007/s42979-021-00646-0)\], \[[Code](https://github.com/usc-hal/deep-n-cheap-extended)\]  
+  \[[Paper](https://link.springer.com/article/10.1007/s42979-021-00646-0)\], \[[Code](https://github.com/usc-hal/deep-n-cheap/tree/nlp)\]  
 
 Honors and Awards
 -----
