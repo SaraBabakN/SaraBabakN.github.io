@@ -27,7 +27,7 @@ Publications
 - **An Automated Search Framework for Low Complexity Deep Learning**  
   Sourya Dey, <u>Sara Babakniya</u>, Saikrishna C. Kanala, Marco Paolieri, Leana Golubchik, Peter A. Beerel, and Keith M. Chugg.  
   Springer Nature Computer Science, 2021  
-  [Paper](https://link.springer.com/article/10.1007/s42979-021-00646-0)  
+  \[[Paper](https://link.springer.com/article/10.1007/s42979-021-00646-0)\], \[[Code](https://github.com/usc-hal/deep-n-cheap-extended)\]  
 
 Honors and Awards
 -----
