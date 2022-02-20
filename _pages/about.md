@@ -42,7 +42,6 @@ Email: babakniy[at]usc[dot]edu
   
 University of Southern California  
 Department of Computer Science  
-941 Bloom Walk, SAL 200  
 Los Angeles, CA 90089-0781  
 
-                                                          last update 1/10/2022
+                                                          last update 2/20/2022
