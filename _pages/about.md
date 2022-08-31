@@ -20,9 +20,12 @@ Graduate Research Assistant (Aug 2019 - Present)
 
 Publications
 -----
+- **Federated Sparse Training: Lottery Aware Model Compression for Resource Constrained Edge**
+  <u>Sara Babakniya</u>, Souvik Kundu, Saurav Prakash, Yue Niu and Salman Avestimehr
+  \[[Paper](https://arxiv.org/abs/2208.13092)\]
 - **Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning**  
   Chien-Lun Chen, <u>Sara Babakniya</u>, Marco Paolieri, and Leana Golubchik  
-  Submitted to ACM Transactions on Intelligent Systems and Technology, 2021
+  Submitted to ACM Transactions on Intelligent Systems and Technology, 2022
   
 - **Deep-n-Cheap: An Automated Efficient and Extensible Search Framework for Cost-Effective Deep Learning**  
   Sourya Dey, <u>Sara Babakniya</u>, Saikrishna C. Kanala, Marco Paolieri, Leana Golubchik, Peter A. Beerel, and Keith M. Chugg  
@@ -31,6 +34,7 @@ Publications
 
 Honors and Awards
 -----
+- Grace Hopper Celebratoin Travel Grant, USC 2022
 - Grad Cohort Travel Grant, CRA-W 2022
 - WiSE Qualcomm Top-Off Fellowship 2021
 - Grace Hopper Celebration Scholarship 2021
