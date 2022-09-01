@@ -26,7 +26,7 @@ Publications
 
 - **Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning**  
   Chien-Lun Chen, <u>Sara Babakniya</u>, Marco Paolieri, and Leana Golubchik  
-  Submitted to ACM Transactions on Intelligent Systems and Technology, 2022
+  ACM Transactions on Intelligent Systems and Technology, 2022
   
 - **Deep-n-Cheap: An Automated Efficient and Extensible Search Framework for Cost-Effective Deep Learning**  
   Sourya Dey, <u>Sara Babakniya</u>, Saikrishna C. Kanala, Marco Paolieri, Leana Golubchik, Peter A. Beerel, and Keith M. Chugg  
