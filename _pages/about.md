@@ -23,6 +23,7 @@ Publications
 - **Federated Sparse Training: Lottery Aware Model Compression for Resource Constrained Edge**
   <u>Sara Babakniya</u>, Souvik Kundu, Saurav Prakash, Yue Niu and Salman Avestimehr
   \[[Paper](https://arxiv.org/abs/2208.13092)\]
+
 - **Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning**  
   Chien-Lun Chen, <u>Sara Babakniya</u>, Marco Paolieri, and Leana Golubchik  
   Submitted to ACM Transactions on Intelligent Systems and Technology, 2022
