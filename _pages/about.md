@@ -20,8 +20,8 @@ Graduate Research Assistant (Aug 2019 - Present)
 
 Publications
 -----
-- **Federated Sparse Training: Lottery Aware Model Compression for Resource Constrained Edge**
-  <u>Sara Babakniya</u>, Souvik Kundu, Saurav Prakash, Yue Niu and Salman Avestimehr
+- **Federated Sparse Training: Lottery Aware Model Compression for Resource Constrained Edge**  
+  <u>Sara Babakniya</u>, Souvik Kundu, Saurav Prakash, Yue Niu and Salman Avestimehr  
   \[[Paper](https://arxiv.org/abs/2208.13092)\]
 
 - **Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning**  
