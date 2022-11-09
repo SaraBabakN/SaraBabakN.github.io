@@ -21,8 +21,10 @@ Graduate Research Assistant (Aug 2019 - Present)
 Publications
 -----
 - **Federated Sparse Training: Lottery Aware Model Compression for Resource Constrained Edge**  
-  <u>Sara Babakniya</u>, Souvik Kundu, Saurav Prakash, Yue Niu and Salman Avestimehr  
+  <u>Sara Babakniya</u>, Souvik Kundu, Saurav Prakash, Yue Niu and Salman Avestimehr
+  Accepted in Neurips-FL 2022
   \[[Paper](https://arxiv.org/abs/2208.13092)\]
+
 
 - **Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning**  
   Chien-Lun Chen, <u>Sara Babakniya</u>, Marco Paolieri, and Leana Golubchik  
@@ -35,6 +37,7 @@ Publications
 
 Honors and Awards
 -----
+- Best Poster Presentation, USC-Meta Center Workshop, 2022
 - Grace Hopper Celebratoin Travel Grant, USC 2022
 - Grad Cohort Travel Grant, CRA-W 2022
 - WiSE Qualcomm Top-Off Fellowship 2021
