@@ -20,8 +20,8 @@ Graduate Research Assistant (Aug 2019 - Present)
 
 Publications
 -----
-- **Don’t Memorize; Mimic The Past: Federated Class Incremental Learning Without Episodic Memory**
-  <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotab and Salman Avestimehr
+- **Don’t Memorize; Mimic The Past: Federated Class Incremental Learning Without Episodic Memory**  
+  <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotab and Salman Avestimehr  
   Accepted in ICML-FL 2023
   \[[Paper](https://arxiv.org/pdf/2307.00497)\]
 
