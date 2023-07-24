@@ -20,6 +20,11 @@ Graduate Research Assistant (Aug 2019 - Present)
 
 Publications
 -----
+- **Don’t Memorize; Mimic The Past: Federated Class Incremental Learning Without Episodic Memory**
+  <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotab and Salman Avestimehr
+  Accepted in ICML-FL 2023
+  \[[Paper](https://arxiv.org/pdf/2307.00497)\]
+
 - **Federated Sparse Training: Lottery Aware Model Compression for Resource Constrained Edge**  
   <u>Sara Babakniya</u>, Souvik Kundu, Saurav Prakash, Yue Niu and Salman Avestimehr
   Accepted in Neurips-FL 2022
@@ -39,7 +44,7 @@ Publications
 Honors and Awards
 -----
 - Best Poster Presentation, USC-Meta Center Workshop, 2022
-- Grace Hopper Celebratoin Travel Grant, USC 2022
+- Grace Hopper Celebration Travel Grant, USC 2022
 - Grad Cohort Travel Grant, CRA-W 2022
 - WiSE Qualcomm Top-Off Fellowship 2021
 - Grace Hopper Celebration Scholarship 2021
@@ -53,4 +58,4 @@ University of Southern California
 Department of Computer Science  
 Los Angeles, CA 90089-0781  
 
-                                                          last update 8/31/2022
+                                                          last update 7/24/2023
