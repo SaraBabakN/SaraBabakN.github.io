@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ------
-I am a 4th-year Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/).  Generally, I am interested in Privacy & Fairness in ML, Federated Learning, and Neural Network Architecture Search. My recent focus is on the privacy and efficiency of Federated Learning and Neural Network Architecture Search in Natural Language Processing.  
+I am a 5th-year Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/).  Generally, I am interested in Privacy & Fairness in ML, Federated Learning, and Neural Network Architecture Search. My recent focus is on the privacy and efficiency of Federated Learning and Neural Network Architecture Search in Natural Language Processing.  
   
 I finished my B.Sc. in [Electrical Engineering](http://ee.sharif.edu/~web/en/) at the [Sharif University of Technology](http://www.en.sharif.edu/) in 2019, during which I gained some experience in implementing and designing networked systems.
 
@@ -48,7 +48,6 @@ Honors and Awards
 - Grad Cohort Travel Grant, CRA-W 2022
 - WiSE Qualcomm Top-Off Fellowship 2021
 - Grace Hopper Celebration Scholarship 2021
-- Iran’s National Elites Foundation Fellowship 2014 – 2019
 
 Contact
 -----
