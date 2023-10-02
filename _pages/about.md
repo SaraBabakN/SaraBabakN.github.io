@@ -20,20 +20,34 @@ Graduate Research Assistant (Aug 2019 - Present)
 
 Publications
 -----
+- **Mitigating Catastrophic Forgetting in Federated Class Incremental Learning using Data-free Generative Models**  
+  <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotab and Salman Avestimehr  
+  NeurIPS 2023  
+  
+- **Revisiting Sparsity Hunting in Federated Learning: Why does Sparsity Consensus Matter?**  
+  <u>Sara Babakniya</u>\*, Souvik Kundu\*, Saurav Prakash, Yue Niu and Salman Avestimehr  
+  Transactions on Machine Learning Research 2023  
+  \[[Paper](https://arxiv.org/abs/2208.13092)\], \[[Code](https://github.com/SaraBabakN/flash_fl)\]  
+
+- **SLoRA: Federated Parameter Efficient Fine-Tuning of Language Models**  
+  <u>Sara Babakniya</u>\*, Ahmed Roushdy Elkordy\*, Yahya H Ezzeldin, Qingfeng Liu, Kee-Bong Song, Mostafa El-Khamy, Salman Avestimehr  
+  preprint  
+  \[[Paper](https://arxiv.org/pdf/2308.06522)\]
+
 - **Don’t Memorize; Mimic The Past: Federated Class Incremental Learning Without Episodic Memory**  
   <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotab and Salman Avestimehr  
-  Accepted in ICML-FL 2023
+  ICML-FL 2023  
   \[[Paper](https://arxiv.org/pdf/2307.00497)\]
 
 - **Federated Sparse Training: Lottery Aware Model Compression for Resource Constrained Edge**  
-  <u>Sara Babakniya</u>, Souvik Kundu, Saurav Prakash, Yue Niu and Salman Avestimehr
-  Accepted in Neurips-FL 2022
+  <u>Sara Babakniya</u>\*, Souvik Kundu\*, Saurav Prakash, Yue Niu and Salman Avestimehr  
+  NeurIPS-FL 2022  
   \[[Paper](https://arxiv.org/abs/2208.13092)\]
 
 
 - **Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning**  
   Chien-Lun Chen, <u>Sara Babakniya</u>, Marco Paolieri, and Leana Golubchik  
-  ACM Transactions on Intelligent Systems and Technology, 2022
+  ACM Transactions on Intelligent Systems and Technology, 2022  
   \[[Paper](https://par.nsf.gov/servlets/purl/10345295)\]
   
 - **Deep-n-Cheap: An Automated Efficient and Extensible Search Framework for Cost-Effective Deep Learning**  
