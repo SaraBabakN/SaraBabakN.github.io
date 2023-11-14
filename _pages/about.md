@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ------
-I am a 5th-year Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/).  Generally, I am interested in Privacy & Fairness in ML, Federated Learning, and Neural Network Architecture Search. My recent focus is on the privacy and efficiency of Federated Learning and Neural Network Architecture Search in Natural Language Processing.  
+I am a 5th-year Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/).  Generally, I am interested in Privacy and fairness in ML, Federated Learning, and Neural Network Architecture Search. My recent focus is on the privacy and efficiency of Federated Learning and Neural Network Architecture Search in Natural Language Processing.  
   
 I finished my B.Sc. in [Electrical Engineering](http://ee.sharif.edu/~web/en/) at the [Sharif University of Technology](http://www.en.sharif.edu/) in 2019, during which I gained some experience in implementing and designing networked systems.
 
@@ -31,7 +31,7 @@ Publications
 
 - **SLoRA: Federated Parameter Efficient Fine-Tuning of Language Models**  
   <u>Sara Babakniya</u>\*, Ahmed Roushdy Elkordy\*, Yahya H Ezzeldin, Qingfeng Liu, Kee-Bong Song, Mostafa El-Khamy, Salman Avestimehr  
-  preprint  
+  FL@FM-NeurIPS 2023  
   \[[Paper](https://arxiv.org/pdf/2308.06522)\]
 
 - **Don’t Memorize; Mimic The Past: Federated Class Incremental Learning Without Episodic Memory**  
@@ -57,6 +57,7 @@ Publications
 
 Honors and Awards
 -----
+- Outstanding Poster Presentation, USC MHI Research Festival, 2023
 - Best Poster Presentation, USC-Meta Center Workshop, 2022
 - Grace Hopper Celebration Travel Grant, USC 2022
 - Grad Cohort Travel Grant, CRA-W 2022
