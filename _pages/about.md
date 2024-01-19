@@ -33,8 +33,7 @@ Publications
 - **SLoRA: Federated Parameter Efficient Fine-Tuning of Language Models**  
   <u>Sara Babakniya</u>\*, Ahmed Roushdy Elkordy\*, Yahya H Ezzeldin, Qingfeng Liu, Kee-Bong Song, Mostafa El-Khamy, Salman Avestimehr  
   FL@FM-NeurIPS 2023  
-  <span style="color:red;">Best Paper Award.</span>  
-
+  <span style="color:red;">Best Paper Award</span>  
   \[[Paper](https://arxiv.org/pdf/2308.06522)\]
 - **Don’t Memorize; Mimic The Past: Federated Class Incremental Learning Without Episodic Memory**  
   <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotab and Salman Avestimehr  
