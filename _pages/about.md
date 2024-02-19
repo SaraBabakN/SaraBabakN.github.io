@@ -16,9 +16,11 @@ I finished my B.Sc. in [Electrical Engineering](http://ee.sharif.edu/~web/en/) a
 
 Experience
 -----
-SWE Intern at Google (Feb 2024 - Present)
+- **SWE Intern** (Feb 2024 - Present)  
+  Google, Sunnyvale, CA
 
-Graduate Research Assistant (Aug 2019 - Present)
+- **Graduate Research Assistant** (Aug 2019 - Present)  
+  University of Southern California, Los Angeles, CA
 
 Publications
 -----
