@@ -10,12 +10,14 @@ redirect_from:
 
 About
 ------
-I am a 5th-year Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/).  Generally, I am interested in Privacy and fairness in ML, Federated Learning, and Neural Network Architecture Search. My recent focus has been on privacy and efficiency in Machine Learning.  
+I am a 5th-year Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/). Generally, I am interested in different challenges in ML, such as privacy and efficiency. My experience has been primarily in exploring these challenges in Federated Learning and Natural Language Processing.
   
 I finished my B.Sc. in [Electrical Engineering](http://ee.sharif.edu/~web/en/) at the [Sharif University of Technology](http://www.en.sharif.edu/) in 2019, during which I gained some experience in implementing and designing networked systems.
 
 Experience
 -----
+SWE Intern at Google (Feb 2024 - Present)
+
 Graduate Research Assistant (Aug 2019 - Present)
 
 Publications
