@@ -10,13 +10,18 @@ redirect_from:
 
 About
 ------
-I am a 5th-year Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/). Generally, I am interested in different challenges in ML, such as privacy and efficiency. My experience has been primarily in exploring these challenges in Federated Learning and Natural Language Processing.
+I am a 6th-year Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/). Generally, I am interested in different challenges in ML, such as privacy and efficiency. My experience has been primarily in exploring these challenges in Federated Learning and Natural Language Processing.
   
 I finished my B.Sc. in [Electrical Engineering](http://ee.sharif.edu/~web/en/) at the [Sharif University of Technology](http://www.en.sharif.edu/) in 2019, during which I gained some experience in implementing and designing networked systems.
 
 Experience
 -----
-- **SWE Intern** (Feb 2024 - Present)  
+
+- **Student Researcher** (Aug 2024 - Present)  
+  Google, New York, NY
+
+  
+- **SWE Intern** (Feb 2024 - May 2024)  
   Google, Sunnyvale, CA
 
 - **Graduate Research Assistant** (Aug 2019 - Present)  
@@ -61,6 +66,7 @@ Publications
 
 Honors and Awards
 -----
+- WiSE Travel Grant, 2024
 - Best Paper Award, FL@FM-NeurIPS Workshop, 2023
 - Outstanding Poster Presentation, USC MHI Research Festival, 2023
 - Best Poster Presentation, USC-Meta Center Workshop, 2022
@@ -77,4 +83,4 @@ University of Southern California
 Department of Computer Science  
 Los Angeles, CA 90089-0781  
 
-                                                          last update 7/24/2023
+                                                          last update 9/16/2024
