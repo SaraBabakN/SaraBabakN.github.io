@@ -29,6 +29,12 @@ Experience
 
 Publications
 -----
+- **Escaping Collapse: The Strength of Weak Data for Large Language Model Training**  
+  Kareem Amin, <u>Sara Babakniya</u>, Alex Bie, Weiwei Kong, Umar Syed, Sergei Vassilvitskii  
+  [Authors are ordered alphabetically]  
+  Preprint  
+  \[[Paper](https://arxiv.org/pdf/2502.08924)\]
+
 - **A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks**  
   <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotab and Salman Avestimehr  
   NeurIPS 2023  
@@ -44,6 +50,13 @@ Publications
   FL@FM-NeurIPS 2023  
   <span style="color:red;">Best Paper Award</span>  
   \[[Paper](https://arxiv.org/pdf/2308.06522)\]
+
+- **AICircuit: A Multi-Level Dataset and Benchmark for AI-Driven Analog Integrated Circuit Design**  
+  Asal Mehradfar, Xuzhe Zhao, Yue Niu, <u>Sara Babakniya</u>, Mahdi Alesheikh, Hamidreza Aghasi, Salman Avestimehr  
+  ML4S-NeurIPS 2024  
+  <span style="color:red;">Reproducibility Award</span>  
+  \[[Paper](https://arxiv.org/pdf/2407.18272)\]  
+
 - **Don’t Memorize; Mimic The Past: Federated Class Incremental Learning Without Episodic Memory**  
   <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotab and Salman Avestimehr  
   ICML-FL 2023  
@@ -53,6 +66,11 @@ Publications
   <u>Sara Babakniya</u>\*, Souvik Kundu\*, Saurav Prakash, Yue Niu and Salman Avestimehr  
   NeurIPS-FL 2022  
   \[[Paper](https://arxiv.org/abs/2208.13092)\]
+
+- **Supervised Learning for Analog and RF Circuit Design: Benchmarks and Comparative Insights**  
+  Asal Mehradfar, Xuzhe Zhao, Yue Niu, <u>Sara Babakniya</u>, Mahdi Alesheikh, Hamidreza Aghasi, Salman Avestimehr  
+  Preprint  
+  \[[Paper](https://arxiv.org/pdf/2501.11839)\]  
 
 - **Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning**  
   Chien-Lun Chen, <u>Sara Babakniya</u>, Marco Paolieri, and Leana Golubchik  
@@ -83,4 +101,4 @@ University of Southern California
 Department of Computer Science  
 Los Angeles, CA 90089-0781  
 
-                                                          last update 9/16/2024
+                                                          last update 2/21/2025
