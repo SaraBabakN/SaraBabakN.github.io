@@ -33,7 +33,7 @@ Publications
   Kareem Amin, <u>Sara Babakniya</u>, Alex Bie, Weiwei Kong, Umar Syed, Sergei Vassilvitskii  
   [Authors are ordered alphabetically]  
   Preprint  
-  \[[Paper](https://arxiv.org/pdf/2502.08924)\]
+  \[[Paper](https://arxiv.org/abs/2502.08924)\]
 
 - **A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks**  
   <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotab and Salman Avestimehr  
