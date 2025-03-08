@@ -18,11 +18,13 @@ Experience
 -----
 
 - **Student Researcher** (Aug 2024 - Present)  
-  Google Research, New York, NY
+  Google Research, New York, NY    
+  Mentors: Kareem Amin, Umar Syed
 
   
 - **SWE Intern** (Feb 2024 - May 2024)  
   Google, Sunnyvale, CA
+  Mentors: Jeremy Fisher, Sam Aldrin
 
 - **Graduate Research Assistant** (Aug 2019 - Present)  
   University of Southern California, Los Angeles, CA
@@ -32,7 +34,7 @@ Publications
 - **Escaping Collapse: The Strength of Weak Data for Large Language Model Training**  
   Kareem Amin, <u>Sara Babakniya</u>, Alex Bie, Weiwei Kong, Umar Syed, Sergei Vassilvitskii  
   [Authors are ordered alphabetically]  
-  Workshop on Scaling Self-Improving Foundation Models without Human Supervision at ICLR 2025   
+  SSI-FM, ICLR 2025   
   \[[Paper](https://arxiv.org/pdf/2502.08924)\]
 
 - **A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks**  
