@@ -23,7 +23,7 @@ Experience
 
   
 - **SWE Intern** (Feb 2024 - May 2024)  
-  Google, Sunnyvale, CA
+  Google, Sunnyvale, CA    
   Mentors: Jeremy Fisher, Sam Aldrin
 
 - **Graduate Research Assistant** (Aug 2019 - Present)  
