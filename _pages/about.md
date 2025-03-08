@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ------
-I am a Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/). Generally, I am interested in different challenges in ML, such as privacy and efficiency. My experience has been primarily in exploring these challenges in Federated Learning and Natural Language Processing.
+I am a Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/). Generally, I am interested in different challenges in ML, such as privacy and efficiency. My experience has primarily been exploring these challenges in Federated Learning and Natural Language Processing.
   
 I finished my B.Sc. in [Electrical Engineering](http://ee.sharif.edu/~web/en/) at the [Sharif University of Technology](http://www.en.sharif.edu/) in 2019, during which I gained some experience in implementing and designing networked systems.
 
@@ -32,7 +32,7 @@ Publications
 - **Escaping Collapse: The Strength of Weak Data for Large Language Model Training**  
   Kareem Amin, <u>Sara Babakniya</u>, Alex Bie, Weiwei Kong, Umar Syed, Sergei Vassilvitskii  
   [Authors are ordered alphabetically]  
-  Preprint  
+  Workshop on Scaling Self-Improving Foundation Models without Human Supervision at ICLR 2025 
   \[[Paper](https://arxiv.org/pdf/2502.08924)\]
 
 - **A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks**  
