@@ -32,7 +32,7 @@ Publications
 - **Escaping Collapse: The Strength of Weak Data for Large Language Model Training**  
   Kareem Amin, <u>Sara Babakniya</u>, Alex Bie, Weiwei Kong, Umar Syed, Sergei Vassilvitskii  
   [Authors are ordered alphabetically]  
-  Workshop on Scaling Self-Improving Foundation Models without Human Supervision at ICLR 2025 
+  Workshop on Scaling Self-Improving Foundation Models without Human Supervision at ICLR 2025   
   \[[Paper](https://arxiv.org/pdf/2502.08924)\]
 
 - **A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks**  
