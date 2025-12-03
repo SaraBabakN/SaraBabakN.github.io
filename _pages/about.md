@@ -10,14 +10,18 @@ redirect_from:
 
 About
 ------
-I am a Ph.D. student studying Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I am a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/). Generally, I am interested in different challenges in ML, such as privacy and efficiency. My experience has primarily been exploring these challenges in Federated Learning and Natural Language Processing.
+I am currently working as a Research Scientist at Google in Kirkland.
+
+I obtained my Ph.D. in Computer Science at the [University of Southern California](https://www.cs.usc.edu/). I was a member of [Information Theory and Machine Learning (vITAL) research lab](https://www.avestimehr.com/vital-lab/) under the supervision of [Prof. Salman Avestimehr](https://www.avestimehr.com/). Generally, I am interested in different challenges in ML, such as privacy and efficiency. My experience has primarily been exploring these challenges in Federated Learning and Natural Language Processing.
   
 I finished my B.Sc. in [Electrical Engineering](http://ee.sharif.edu/~web/en/) at the [Sharif University of Technology](http://www.en.sharif.edu/) in 2019, during which I gained some experience in implementing and designing networked systems.
 
 Experience
 -----
+- **Research Scientist** (Sep 2025 - Present)  
+  Google Research, Kirkland, WA
 
-- **Student Researcher** (Aug 2024 - Present)  
+- **Student Researcher** (Aug 2024 - March 2025)  
   Google Research, New York, NY    
   Mentors: Kareem Amin, Umar Syed
 
@@ -26,7 +30,7 @@ Experience
   Google, Sunnyvale, CA    
   Mentors: Jeremy Fisher, Sam Aldrin
 
-- **Graduate Research Assistant** (Aug 2019 - Present)  
+- **Graduate Research Assistant** (Aug 2019 - Aug 2025)  
   University of Southern California, Los Angeles, CA
 
 Publications
@@ -34,16 +38,16 @@ Publications
 - **Escaping Collapse: The Strength of Weak Data for Large Language Model Training**  
   Kareem Amin, <u>Sara Babakniya</u>, Alex Bie, Weiwei Kong, Umar Syed, Sergei Vassilvitskii  
   [Authors are ordered alphabetically]  
-  SSI-FM, ICLR 2025   
+  NeurIPS 2025, SSI-FM@ICLR 2025   
   \[[Paper](https://arxiv.org/pdf/2502.08924)\]
 
 - **A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks**  
-  <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotab and Salman Avestimehr  
+  <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotabi, Salman Avestimehr  
   NeurIPS 2023  
   \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d160ea01902c33e30660851dfbac5980-Paper-Conference.pdf)\], \[[Code](https://github.com/SaraBabakN/MFCL-NeurIPS23)\]
   
 - **Revisiting Sparsity Hunting in Federated Learning: Why does Sparsity Consensus Matter?**  
-  <u>Sara Babakniya</u>\*, Souvik Kundu\*, Saurav Prakash, Yue Niu and Salman Avestimehr  
+  <u>Sara Babakniya</u>\*, Souvik Kundu\*, Saurav Prakash, Yue Niu, Salman Avestimehr  
   Transactions on Machine Learning Research 2023  
   \[[Paper](https://openreview.net/pdf?id=iHyhdpsnyi)\], \[[Code](https://github.com/SaraBabakN/flash_fl)\]  
 
@@ -60,12 +64,12 @@ Publications
   \[[Paper](https://arxiv.org/pdf/2407.18272)\]  
 
 - **Don’t Memorize; Mimic The Past: Federated Class Incremental Learning Without Episodic Memory**  
-  <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotab and Salman Avestimehr  
+  <u>Sara Babakniya</u>, Zalan Fabian, Chaoyang He, Mahdi Soltanolkotabi, Salman Avestimehr  
   ICML-FL 2023  
   \[[Paper](https://arxiv.org/pdf/2307.00497)\]
 
 - **Federated Sparse Training: Lottery Aware Model Compression for Resource Constrained Edge**  
-  <u>Sara Babakniya</u>\*, Souvik Kundu\*, Saurav Prakash, Yue Niu and Salman Avestimehr  
+  <u>Sara Babakniya</u>\*, Souvik Kundu\*, Saurav Prakash, Yue Niu, Salman Avestimehr  
   NeurIPS-FL 2022  
   \[[Paper](https://arxiv.org/pdf/2208.13092)\]
 
@@ -75,12 +79,12 @@ Publications
   \[[Paper](https://arxiv.org/pdf/2501.11839)\]  
 
 - **Defending Against Poisoning Backdoor Attacks on Federated Meta-Learning**  
-  Chien-Lun Chen, <u>Sara Babakniya</u>, Marco Paolieri, and Leana Golubchik  
+  Chien-Lun Chen, <u>Sara Babakniya</u>, Marco Paolieri, Leana Golubchik  
   ACM Transactions on Intelligent Systems and Technology, 2022  
   \[[Paper](https://par.nsf.gov/servlets/purl/10345295)\]
   
-- **Deep-n-Cheap: An Automated Efficient and Extensible Search Framework for Cost-Effective Deep Learning**  
-  Sourya Dey, <u>Sara Babakniya</u>, Saikrishna C. Kanala, Marco Paolieri, Leana Golubchik, Peter A. Beerel, and Keith M. Chugg  
+- **Deep-n-Cheap: An Automated, Efficient and Extensible Search Framework for Cost-Effective Deep Learning**  
+  Sourya Dey, <u>Sara Babakniya</u>, Saikrishna C. Kanala, Marco Paolieri, Leana Golubchik, Peter A. Beerel, Keith M. Chugg  
   Springer Nature Computer Science, 2021  
   \[[Paper](https://link.springer.com/article/10.1007/s42979-021-00646-0)\], \[[Code](https://github.com/usc-hal/deep-n-cheap/tree/nlp)\]  
 
@@ -99,8 +103,5 @@ Contact
 -----
 Email: babakniy[at]usc[dot]edu  
   
-University of Southern California  
-Department of Computer Science  
-Los Angeles, CA 90089-0781  
 
-                                                          last update 2/21/2025
+                                                          last update 12/02/2025
